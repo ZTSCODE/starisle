@@ -170,6 +170,7 @@ export class TitleScreen {
           ${row('M / J', '地图 / 任务日志')}
           ${row('数字键 1-0', '切换快捷栏')}
           ${row('P', '照相模式')}
+          ${row('F8', '碰撞坐标显示（开发者调试）')}
         </table>`;
     const mobTable = `
         <table style="font-size:13px;border-spacing:0">
